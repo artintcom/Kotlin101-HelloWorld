@@ -2,7 +2,7 @@
 
 İlk adımı Android Studio'yu tanıyarak atacağız. Ayrıca bir Android projesinin neye benzediğini keşfedecek ve Android Studio'da farklı pencereleri nasıl kullanacağımızı öğreneceğiz.
 
-### Önkoşullar
+### Ön koşullar
 Android Studio kurulu bilgisayar
 
 ### Ne öğreneceksin
