@@ -1,13 +1,12 @@
 # Kotlin101-HelloWorld
-Kotlin 101 - Hello World
 
 İlk adımı Android Studio'yu tanıyarak atacağız. Ayrıca bir Android projesinin neye benzediğini keşfedecek ve Android Studio'da farklı pencereleri nasıl kullanacağınızı öğreneceğiz.
 
-# Önkoşullar
+## Önkoşullar
 Android Studio
 
-# Ne öğreneceksin
+## Ne öğreneceksin
 Android Studio projesi oluşturma.
 
-# Ne inşa edeceksin
+## Ne inşa edeceksin
 Temel Android uygulaması
